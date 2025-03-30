@@ -1,5 +1,5 @@
 # PhotosNoInfoButton
-Hide the info button in the Photos app.
+Hide the info button in the Photos app. Made as a request for @siletrea on Discord.
 
 ### How to install
 Head over to the [Releases](https://github.com/NightwindDev/PhotosNoInfoButton/releases) section and download the correct `.deb` for your device.
