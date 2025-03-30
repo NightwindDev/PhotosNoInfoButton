@@ -1,0 +1,9 @@
+Package: com.nightwind.photosnoinfobutton
+Name: PhotosNoInfoButton
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Hide the info button in the Photos app.
+Maintainer: Nightwind
+Author: Nightwind
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
